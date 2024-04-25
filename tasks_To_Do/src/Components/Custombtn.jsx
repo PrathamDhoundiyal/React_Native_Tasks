@@ -31,10 +31,23 @@ const styles = StyleSheet.create({
     justifyContent:"center",
     alignItems:"center",
     borderRadius:40,
-    marginLeft:15,
+    
+    marginHorizontal:6,
+    marginVertical:6,
   },
   Text:{
     fontSize:22,
     fontWeight:"bold",
   }
 });
+
+
+
+
+
+
+
+
+
+
+

@@ -1,9 +1,10 @@
 import React from "react";
-import Calculator from "./Calculator";
+import Using_navigation from "./src/Using_navigation";
+
 
 function App() {
   return (
-   <Calculator/>
+   <Using_navigation/>
   )
 }
 
